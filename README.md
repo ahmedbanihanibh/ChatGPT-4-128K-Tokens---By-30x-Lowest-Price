@@ -6,9 +6,13 @@ This is Github Repo containing an Example in Python in how to use the Lowest Pri
 
 
 #Requirements:
+
+
 ** X-Rapidapi-Key **: this key is needed in order to use the Lowest Chatgpt API in the World.
 
 `pip install requests`
+
+
 `pip install sseclient`
 
 After Installation the Python packages then run the script by executing :
